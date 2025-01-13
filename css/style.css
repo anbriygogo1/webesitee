@@ -2852,8 +2852,8 @@ revievs
   background-image: url(../img/faces/customers/7.jpg);
 }
 .mil-revi-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  -webkit-box-shadow: inset 0 0 0 4px rgb(255, 152, 0);
-          box-shadow: inset 0 0 0 4px rgb(255, 152, 0);
+  -webkit-box-shadow: inset 0 0 0 4px rgb(249 149 0);
+  box-shadow: inset 0 0 0 4px rgb(243 0 0);
 }
 
 .mil-quote-icon {
